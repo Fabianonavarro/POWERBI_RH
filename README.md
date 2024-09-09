@@ -23,14 +23,18 @@ Salário: Gráficos de distribuição de salários, incluindo média, mediana e 
 
 Instale o Power BI: Certifique-se de que o Power BI Desktop está instalado em seu computador.
 
-Faça um Fork do Repositório: No GitHub, faça um fork do repositório para ter sua própria cópia. Clique no botão Garfo no canto superior direito da página do repositório.
+Faça um Fork do Repositório: No GitHub, faça um fork do repositório para ter sua própria cópia. 
+
+Clique no botão Garfo no canto superior direito da página do repositório.
 
 Baixe o Repositório: Clone o repositório 
+
 Acesse a Pasta do Projeto
+
 Abra o Power BI Desktop e abra o arquivo RH.pbix
 
-Contato:
-Meus Dados
+
+##Contato:
 Portfólio: https://portifolionavinfo.netlify.app/
 Diversos: https://www.dio.me/users/nav_info_suporte
 GitHub : https://github.com/Fabianonavarro
