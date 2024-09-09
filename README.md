@@ -17,6 +17,14 @@ Demissão Total: Número total de funcionários demitidos, com análise por regi
 Horas Extras: Visualizações sobre o total de horas extras trabalhadas por funcionários, incluindo uma análise por cargo e área.
 Salário: Gráficos de distribuição de salários, incluindo média, mediana e desvio padrão por cargo e região.
 📜
+ Como Usar
+Instale o Power BI: Certifique-se de que o Power BI Desktop está instalado em seu computador.
+
+Faça um Fork do Repositório: No GitHub, faça um fork do repositório para ter sua própria cópia. Clique no botão Garfo no canto superior direito da página do repositório.
+
+Baixe o Repositório: Clone o repositório 
+Acesse a Pasta do Projeto
+Abra o Power BI Desktop e abra o arquivo RH.pbix
 
 Contato:
 Meus Dados
